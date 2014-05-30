@@ -6,8 +6,8 @@ package com.swapnil.kanban.engine;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.swapnil.kanban.core.interfaces.Container;
-import com.swapnil.kanban.core.interfaces.Visitor;
+import src.com.swapnil.kanban.core.interfaces.Container;
+
 import com.swapnil.kanban.impl.DevelopementContainer;
 import com.swapnil.kanban.impl.TesterContainer;
 import com.swapnil.kanban.impl.TestingManager;
